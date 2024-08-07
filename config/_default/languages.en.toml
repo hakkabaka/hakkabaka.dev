@@ -16,7 +16,7 @@ title = "Hakkabaka Space"
  [author]
    name = "hakkabaka"
    image = "img/ishikawa_logo.jpg"
-   headline = "wannabehacker, animelover, appsec"
+   headline = "wannabehacker, animelover, gamer"
    bio = "Hakabaka is an infosec nobody who is constantly trying to become good at web security, VR, automation. Plays CTF, does bug bounty."
    links = [
 #     { email = "mailto:hello@your_domain.com" },

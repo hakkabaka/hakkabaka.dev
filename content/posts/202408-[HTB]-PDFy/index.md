@@ -102,7 +102,7 @@ form.addEventListener('submit', e => {
 });
 ```
 
-## Bling Assumptions
+## Blind Assumptions
 It's not best practice to make assumptions, but for this easy challenge, it was acceptable. The potential exploit vector follows this path:
 
 SSRF -> Exploit something in the parser -> ??? -> Profit
