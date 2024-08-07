@@ -48,7 +48,7 @@ smartTOC = true
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showLikes = false
   showDateOnlyInArticle = true
   showDateUpdated = false
@@ -100,7 +100,7 @@ smartTOC = true
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -109,7 +109,7 @@ smartTOC = true
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = true
   showLikes = true
