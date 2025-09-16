@@ -1,4 +1,4 @@
 baseURL = 'https://hakkabaka.dev/'
 languageCode = 'en'
 
-HUGO_VERSION = '0.87.0'
+HUGO_VERSION = 'v0.127.0'
