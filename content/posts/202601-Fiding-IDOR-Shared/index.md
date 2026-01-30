@@ -10,8 +10,6 @@ authors:
   - hakkabaka
 ---
 
-<img class="thumbnailshadow" src="img/image_2.png"/
-
 ## TL;DR
 
 I found an **Insecure Direct Object Reference (IDOR)** in a project management system.
@@ -236,6 +234,8 @@ Add automated tests for:
 - shared browsing enabled + shared project + non-member ⇒ allowed (if policy says so)
 
 ---
+
+<img class="thumbnailshadow" src="img/image_2.png"/>
 
 ## Takeaway
 
