@@ -1,0 +1,4 @@
+/* Override prose width so article body matches header width on single posts. */
+.article-content.prose {
+  max-width: 100%;
+}
